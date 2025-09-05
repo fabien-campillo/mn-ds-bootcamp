@@ -9,3 +9,5 @@ source jupyter-env/bin/activate  # Linux/Mac
 
 pip install -r requirements.txt
 ```
+
+voir le notebook `2_installer_python.ipynb`
