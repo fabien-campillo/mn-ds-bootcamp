@@ -1,3 +1,4 @@
 .DS_Store
-jupyter-env/*
+jupyter-env/
+.ipynb_checkpoints/
 
